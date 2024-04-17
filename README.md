@@ -3,6 +3,7 @@
 Hey Everyone! I wanted to share that I participated in the Google 2024 Foobar challenge and successfully completed all 4 levels! (Still 1a to go 🔥). I'll be sharing all the code snippets, notes, and challenges on my GitHub account and my LinkedIn feed soon! [Check it out here](https://lnkd.in/dJnZ6NQ8).
 
 
+
 ## What is Foobar Challenge?
 
 Google Foobar is Google's secret hiring challenge, used to recruit some of the best developers globally. Once you accept the invite, you'll be taken to a website where you're given a question and a time limit to solve it. If successful, you move on to higher levels; failure results in being unable to request new problems. You'll receive questions to solve in either Java or Python, with a total of 5 levels and 9 questions.
