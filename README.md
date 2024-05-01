@@ -5,6 +5,7 @@ Hey Everyone! I wanted to share that I participated in the Google 2024 Foobar ch
 ## What is Foobar Challenge?
 
 
+
 Google Foobar is Google's secret hiring challenge, used to recruit some of the best developers globally. Once you accept the invite, you'll be taken to a website where you're given a question and a time limit to solve it. If successful, you move on to higher levels; failure results in being unable to request new problems. You'll receive questions to solve in either Java or Python, with a total of 5 levels and 9 questions.
 
 ## My Experience with the Google FooBar Challenge
